@@ -1,0 +1,9 @@
+[
+  { "id": 1, "name": "iphone", "price": "90000" },
+  { "id": 2, "name": "Samsang", "price": "10000" },
+  { "id": 3, "name": "Nokia", "price": "20000" },
+  { "id": 4, "name": "Infinix", "price": "30000" },
+  { "id": 5, "name": "Techno", "price": "40000" },
+  { "id": 6, "name": "Realme", "price": "50000" },
+  { "id": 7, "name": "Readme", "price": "60000" }
+]
